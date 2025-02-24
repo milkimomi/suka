@@ -1,0 +1,69 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_39d385 { vertical-align: bottom; border-radius: 2px; position:relative; display: inline-block; width:233px; height:40px; background-color:#8000FF;  }
+#button_39d385:hover { background-color:#FEE556;  }
+#button_39d385:hover span { color:#444444; }
+body { background-color:#A3F8F8; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_83d87bc { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:249px; max-width:1024px; background-color:#FFFFFF; background-image: url(rc_images/poster_web_11zon.png); background-position:center center; background-size:cover;  }
+#container_83d87bc_padding { margin: 10px; display: block;  }
+.textstyle2 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000;  }
+#heading_6e2710f5 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:22pt; font-family:'Arial Black', Gadget, sans-serif; color:#0000FF; text-align:center; font-weight:bold;  }
+.textstyle3 { font-size:16pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; line-height: 1.5;  }
+.textstyle4 { font-size:16pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; line-height: 1.5;  }
+.textstyle5 { font-size:16pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#80FF80; line-height: 1.5;  }
+#container_4c60c1f9 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:54px; background-color:#2C2825;  }
+#container_4c60c1f9_padding { margin: 10px; display: block;  }
+#heading_9e1def3 { vertical-align: bottom; position:relative; display: inline-block; width:291px; height:22px; background-color:#FF80FF;  }
+.textstyle6 { text-align:left;display: block }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+#container_3f3985df { vertical-align: top; position:relative; display: inline-block; width:88%; min-height:329px; max-width:1024px; background-color:#FFFFFF;  }
+.textstyle8 { text-align:left; }
+#container_3b7503c4 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_3b7503c4_padding { margin: 10px; display: block;  }
+#container_64225efd { vertical-align: top; position:relative; display: inline-block; width:12%; min-height:150px; background:none;  }
+#container_64225efd_padding { margin: 10px; display: block;  }
+#container_1570e93 { vertical-align: top; position:relative; display: inline-block; width:77%; min-height:150px; background:none;  }
+#container_1570e93_padding { margin: 10px; display: block;  }
+#placeh_67580ade { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; border: 1px solid #A0A0A0;  }
+.textstyle9 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle10 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle12 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle13 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000;  }
+.textstyle14 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#A10BC7;  }
+.textstyle15 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#05DD8F; font-weight:bold;  }
+.textstyle16 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#3FBF91; font-weight:bold;  }
+.textstyle17 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#72118A; font-style:italic; font-weight:bold;  }
+.textstyle18 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#3FBF68; font-weight:bold;  }
+.textstyle19 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#C600F7; font-weight:bold;  }
+.textstyle20 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#0000FF; font-weight:bold;  }
+.textstyle21 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#3F3FBF; font-weight:bold;  }
+.textstyle22 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#3FBFBA; font-weight:bold;  }
+.textstyle23 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle24 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFF80; font-weight:bold;  }
+#container_45e06dfd { vertical-align: top; position:relative; display: inline-block; width:11%; min-height:150px; background:none;  }
+#container_45e06dfd_padding { margin: 10px; display: block;  }
+#img_35ba7929 { vertical-align: bottom; position:relative; display: inline-block; width:104%; background:none; height:auto;  }
+#container_30f911ac { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:70px; max-width:1024px; background-color:#FFFFFF;  }
+.textstyle25 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; line-height: 1.5;  }
+#container_41dbccbb { vertical-align: top; position:relative; display: inline-block; width:78%; min-height:129px; max-width:800px; background:none;  }
+#container_41dbccbb_padding { margin: 10px; display: block;  }
+#container_736641bc { vertical-align: top; position:relative; display: inline-block; width:101%; min-height:80px; background-color:#2C2825;  }
+#container_736641bc_padding { margin: 10px; display: block;  }
+#heading_6619a5d2 { vertical-align: bottom; position:relative; display: inline-block; width:795px; height:67px; background:none;  }
+.textstyle26 { text-align:center;display: block }
+.textstyle27 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle28 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold; line-height: 1.5;  }
+.textstyle29 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+@media only screen and (max-width: 600px)
+{
+		#container_64225efd { width:100%;  }
+		#container_1570e93 { width:100%;  }
+		#container_45e06dfd { width:100%;  }
+}
